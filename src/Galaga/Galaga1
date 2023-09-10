@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+
+class Galaga1
+{
+private:
+    /* data */
+public:
+    Galaga1(/* args */);
+    ~Galaga1();
+};
+
+Galaga1::Galaga1(/* args */)
+{
+}
+
+Galaga1::~Galaga1()
+{
+}

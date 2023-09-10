@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+
+class Naveamiga
+{
+private:
+    /* data */
+public:
+    Naveamiga(/* args */);
+    ~Naveamiga();
+};
+
+Naveamiga::Naveamiga(/* args */)
+{
+}
+
+Naveamiga::~Naveamiga()
+{
+}

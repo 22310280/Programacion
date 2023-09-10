@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+
+class Naves
+{
+private:
+    /* data */
+public:
+    Naves(/* args */);
+    ~Naves();
+};
+
+Naves::Naves(/* args */)
+{
+}
+
+Naves::~Naves()
+{
+}

@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+
+class Ataque
+{
+private:
+    /* data */
+public:
+    Ataque(/* args */);
+    ~Ataque();
+};
+
+Ataque::Ataque(/* args */)
+{
+}
+
+Ataque::~Ataque()
+{
+}
