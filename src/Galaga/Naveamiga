@@ -1,19 +1,19 @@
 #include <iostream>
 #include <string>
 
-class Naveamiga
+class NaveAmiga
 {
 private:
     /* data */
 public:
-    Naveamiga(/* args */);
-    ~Naveamiga();
+    NaveAmiga(/* args */);
+    ~NaveAmiga();
 };
 
-Naveamiga::Naveamiga(/* args */)
+Naveamiga::NaveAmiga(/* args */)
 {
 }
 
-Naveamiga::~Naveamiga()
+Naveamiga::~NaveAmiga()
 {
 }
