@@ -1,13 +1,5 @@
-br : clean copilar ejecutar
-
-copilar: src/main.cpp
-	g++ src/main.cpp -o bin/mascotas -I include
-
-ejecutar: bin/mascotas
-	./bin/mascotas
-
-clean: bin/mascotas
-	rm bin/*
-
-
-
+bin/Galaga : src/Galaga.cpp include/*
+	c++ src/Galaga.cpp -o bin/Galaga -lcurses -I include
+	
+run: bin/Galaga
+	./bin/Galaga
